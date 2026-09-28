@@ -2,3 +2,4 @@
 .aider*
 .env*
 src/dance-archive/media/
+*DS_Store*
